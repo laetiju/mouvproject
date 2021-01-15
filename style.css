@@ -1,0 +1,20 @@
+#header-navbar {
+    background-color: black;
+}
+.nav-link {
+    color:aliceblue;
+}
+.nav-item {
+    padding: 1rem;
+    align-items: center;
+    
+}
+
+.on-air-title {
+    color: aliceblue;
+}
+
+section div {
+    align-items: flex-start;
+    color: red;
+}
